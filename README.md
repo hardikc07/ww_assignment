@@ -1,6 +1,10 @@
 # ww_assignment
 Online assignment for ww 2 problems and 1 automation 
 
+If none of this methos works check out this repo into IntelliJ IDE and run
+- generateRandomNo.java file 
+- readFile.java file 
+
 1st Problem : Generate 500 random numbers and create a method to print the nth smallest number in a programming language of your choice.
 
 1. Checkout the repo and go to the folder  ..\Java_Program\out\artifacts\randomNo
