@@ -23,6 +23,15 @@ If none of this methos works check out this repo into IntelliJ IDE and run
 
 ![readWords](https://user-images.githubusercontent.com/8369597/109361314-969ad600-783d-11eb-87dc-1e178bae4a63.PNG)
 
+--------------------------------------------------------------
+
+3rd Web Automation Project
+
+1. Checkout project and open in IntelliJ IDE
+2. Open Baseclass file /src/Testcases/
+3. Right click and run
+
+![1](https://user-images.githubusercontent.com/8369597/109750582-8cf0d580-7b91-11eb-8990-088e4f93e51a.PNG)
 
 
 Note : Java 11 recommended 
